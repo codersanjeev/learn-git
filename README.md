@@ -22,3 +22,4 @@ Create a account on GitHub or Use your current account for this Activity.
 1. [Sanjeev](https://github.com/thedevelopersanjeev)
 2. [Aman](https://github.com/A-manSingh)
 3. [Komal](https://github.com/Komalchhoker)
+4. [Palak](https://github.com/PalakSharmaa)
