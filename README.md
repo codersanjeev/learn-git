@@ -23,3 +23,5 @@ Create a account on GitHub or Use your current account for this Activity.
 2. [Aman](https://github.com/A-manSingh)
 3. [Komal](https://github.com/Komalchhoker)
 5. [Palak](https://github.com/PalakSharmaa)
+4. [Anamika](https://github.com/AnamikaSaxena17)
+6. [Shivpal](https://github.com/shivpalsinghnext)
