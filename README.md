@@ -50,7 +50,7 @@ Create a account on GitHub or Use your current account for this Activity.
 29. [Abhishek Kush](https://github.com/kushabhi)
 30. [Vipul Verma](https://github.com/thedevelopervipul)
 31. [Yash Kalra](https://github.com/Yash-Kalra)
-32. [Aman Kumar](https://github.com/Amankumar1997)
+32. [Aman Kumar](https://github.com/Amankumar1997)>>>>>>> master
 33. [Shubham Sharma](https://github.com/shubhamsharmadvlpr)
 34. [Aakash Kumar](https://github.com/aakash-kumar27)
 35. [Bhani Ram](https://github.com/bhanukh)
@@ -64,3 +64,4 @@ Create a account on GitHub or Use your current account for this Activity.
 43. [Shubham Tiwari](https://github.com/ShubhamTiwari11)
 44. [Ajay Kaushik](https://github.com/ajaykaushiksharma)
 45. [Harshit](https://github.com/hsharshit13)
+46. [Ajay Rathi](https://github.com/ajay3897)
