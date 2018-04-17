@@ -54,3 +54,4 @@ Create a account on GitHub or Use your current account for this Activity.
 29. [Aakash Kumar](https://github.com/aakash-kumar27)
 30. [Bhani Ram](https://github.com/bhanukh)
 31. [Shubham Yadav](https://github.com/yadavshubham2199)
+32. [Ritika](https://github.com/ritikakaushik)
