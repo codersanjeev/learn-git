@@ -68,4 +68,3 @@ Create a account on GitHub or Use your current account for this Activity.
 47. [Chandan Kumar](https://github.com/ck96548)
 48. [Amit Sharma](https://github.com/amidixita)
 49. [vanshika Mehta](https://github.com/mvanshikamehta17521)
-50. [Sanjeev](url to yopur profile)
