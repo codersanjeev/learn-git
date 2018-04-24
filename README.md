@@ -8,7 +8,7 @@ Create a account on GitHub or Use your current account for this Activity.
 2. Fork this repository.
 3. Clone the forked repository to your local machine. ( git clone <URL to cloned repository> )
 4. Add your name and profile link in README.md file. ( Open the file using any text editor )
-5. Commit the message and put your Roll Number as commit message. ( git add . & git commit -m "Your Roll Number here" )
+5. Commit the message and put your Name as commit message. ( git add . & git commit -m "Your Name here" )
 6. Push the changes online. ( git push origin master )
 7. Come back here and click on pull request tab and create a pull request.
   
