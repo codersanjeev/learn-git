@@ -10,3 +10,5 @@ Respository is the area where your works will save in GitHub.
 ## Pull request :
 Suppose you like a project and wanna contribute on that .So pull request just a request to the owner of that project to pull your 
 code to his/her project ( You are requesting to project owner " please pull my code and merge it .") . 
+
+### Check the git for geek file to know more practical cli Git commands . Try those on your terminal.  
