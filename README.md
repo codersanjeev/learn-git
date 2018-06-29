@@ -1,6 +1,8 @@
 # Practice Git
 Create a account on GitHub or Use your current account for this Activity.
 
+### Check the git for geek file to know more practical cli Git commands . Try those on your terminal.  
+
 <img src = "https://i1.wp.com/duality.solutions/wp-content/uploads/2017/10/github-logo.png?ssl=1"/>
 
 # Tasks to do
@@ -11,7 +13,7 @@ Create a account on GitHub or Use your current account for this Activity.
 5. Commit the message and put your Name as commit message. ( git add . & git commit -m "Your Name here" )
 6. Push the changes online. ( git push origin master )
 7. Come back here and click on pull request tab and create a pull request.
-  
+
 # Reference
 1. [15 Minutes Tutorial](https://try.github.io/levels/1/challenges/1)
 2. [Commands Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
