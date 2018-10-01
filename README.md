@@ -1,8 +1,6 @@
 # Practice Git
 Create a account on GitHub or Use your current account for this Activity.
 
-### Check the git for geek file to know more practical cli Git commands . Try those on your terminal.  
-
 <img src = "https://i1.wp.com/duality.solutions/wp-content/uploads/2017/10/github-logo.png?ssl=1"/>
 
 # Tasks to do
