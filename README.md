@@ -84,3 +84,4 @@ Create a account on GitHub or Use your current account for this Activity.
 63. [Ajay S. Rawat](https://github.com/ajayrwt34)
 64. [Tarun Jindal](https://github.com/tarunjindal790)
 65. [Damian Sire](https://github.com/damiansire)
+66. [Jonathan Lozada](https://github.com/jlozadad)
