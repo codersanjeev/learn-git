@@ -98,6 +98,7 @@ git diff ( see the changes made in files)
 git diff HEAD^ ( diff with the parent of the latest commit)
 git diff HEAD^^ ( diff with the grandparent of the latest commit)
 git diff master branchname ( diff two branches )
+git diff --staged ( show changes of staging area )
 
 ```
 ### Tagging
@@ -134,5 +135,13 @@ git config alias.myaliasshorcutcommand commit
 ```
 git blame somefile.txt ( see who made the changes and other details of the changes)
 
+```
+
+### Logging
+```
+git log --pretty=oneline ( show logs in one line)
+git log --abrev-commit (abbreviate the hashes)
+git log --stat ( show commits static )
+git log -p -4 ( show changes of the last 4 commits )
 ```
 
