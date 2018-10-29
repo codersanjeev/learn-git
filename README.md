@@ -1,4 +1,4 @@
-﻿# Practice Git
+# Practice Git
 Create a account on GitHub or Use your current account for this Activity.
 
 <img src = "https://i1.wp.com/duality.solutions/wp-content/uploads/2017/10/github-logo.png?ssl=1"/>
@@ -114,4 +114,4 @@ Create a account on GitHub or Use your current account for this Activity.
 93. [Bruno Matthaus](https://github.com/bmatthaus)
 94. [Mylena Micaella](https://github.com/mylenamb)
 95. [Vishal Sehgal](https://github.com/CoderVishalSehgal)
-96. [Karen] (https://github.com/karenkanashiro)
+96. [Karen](https://github.com/karenkanashiro)
