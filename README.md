@@ -1,9 +1,11 @@
 # Practice Git
+
 Create a account on GitHub or Use your current account for this Activity.
 
 <img src = "https://i1.wp.com/duality.solutions/wp-content/uploads/2017/10/github-logo.png?ssl=1"/>
 
 # Tasks to do
+
 1. Star this repository.
 2. Fork this repository.
 3. Clone the forked repository to your local machine. ( git clone <URL to cloned repository> )
@@ -13,17 +15,21 @@ Create a account on GitHub or Use your current account for this Activity.
 7. Come back here and click on pull request tab and create a pull request.
 
 # Reference
+
 1. [15 Minutes Tutorial](https://try.github.io/levels/1/challenges/1)
 2. [Commands Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 # Add your Profile Link here
+
 ## Use this Format
+
 ## S.No. [Your Name Here] (Link to Your Profile here)
+
 1. [Sanjeev](https://github.com/thedevelopersanjeev)
 2. [Aman](https://github.com/A-manSingh)
 3. [Komal](https://github.com/Komalchhoker)
-5. [Palak](https://github.com/PalakSharmaa)
-4. [Anamika](https://github.com/AnamikaSaxena17)
+4. [Palak](https://github.com/PalakSharmaa)
+5. [Anamika](https://github.com/AnamikaSaxena17)
 6. [Shivpal](https://github.com/shivpalsinghnext)
 7. [Apoorv](https://github.com/1998apoorvmalik)
 8. [Sandeep](https://github.com/Sandeep1rok)
@@ -118,3 +124,4 @@ Create a account on GitHub or Use your current account for this Activity.
 97. [Firefly87](https://github.com/Firefly87)
 98. [binn87](https://github.com/binn87)
 99. [sspride5](https://github.com/sspride5)
+100. [Rocktim](https://github.com/RocktimSaikia)
