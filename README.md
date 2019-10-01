@@ -2,7 +2,7 @@
 
 Create a account on GitHub or Use your current account for this Activity.
 
-<img src = "https://i1.wp.com/duality.solutions/wp-content/uploads/2017/10/github-logo.png?ssl=1"/>
+![Header Image](https://3.bp.blogspot.com/-saxzerGz11k/VvwDXIFsaXI/AAAAAAAADHA/DLcRkrwzAYohcsEjl_IaEke5bc6EJo0LA/s1600/github-mark.png)
 
 # Tasks to do
 
@@ -13,6 +13,8 @@ Create a account on GitHub or Use your current account for this Activity.
 5. Commit the message and put your Name as commit message. ( git add . & git commit -m "Your Name here" )
 6. Push the changes online. ( git push origin master )
 7. Come back here and click on pull request tab and create a pull request.
+
+![Image](https://static.vecteezy.com/system/resources/previews/000/400/849/non_2x/people-making-a-to-do-list-illustration-vector.jpg)
 
 # Reference
 
@@ -127,3 +129,4 @@ Create a account on GitHub or Use your current account for this Activity.
 100. [Rocktim](https://github.com/RocktimSaikia)
 101. [JPDem](https://github.com/JPDem)
 102. [nephelo7](https://github.com/nephelo7)
+103. [Anirudh Jwala](https://github.com/anirudh-jwala)
