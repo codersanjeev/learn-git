@@ -133,4 +133,5 @@ Create a account on GitHub or Use your current account for this Activity.
 104. [boreme12](https://github.com/boreme12)
 105. [Vaibhav](https://github.com/vaibhavpunia)
 106. [Manisha Tiwari](https://github.com/manishatiwari393)
-107. [Naveen Luhach](https://github.com/naveenluhach)
+107. [Amanda](https://github.com/amandapl)
+108 [Naveen Luhach](https://github.com/naveenluhach)
