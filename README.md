@@ -136,4 +136,4 @@ Create a account on GitHub or Use your current account for this Activity.
 107. [Amanda](https://github.com/amandapl)
 108. [Naveen Luhach](https://github.com/naveenluhach)
 109. [Mohamad Arshad](https://github.com/Arshad8607716871)
-110. [Gabriela Prado] (https://github.com/gabrielarodriguesp)
+110. [Gabriela Prado](https://github.com/gabrielarodriguesp)
