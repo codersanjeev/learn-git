@@ -139,4 +139,4 @@ Create a account on GitHub or Use your current account for this Activity.
 110. [Gabriela Prado](https://github.com/gabrielarodriguesp)
 111. [barretoMarcosPaulo](https://github.com/barretoMarcosPaulo)
 112. [Estevao Viana](https://github.com/estevaomrviana)
-113. [Lucas Miranda](https://github.com/lucasmiranda0)
+113. [Lucas](https://github.com/lucasmiranda0)
