@@ -6,13 +6,13 @@ Create a account on GitHub or Use your current account for this Activity.
 
 # Tasks to do
 
-1. Star this repository.
-2. Fork this repository.
+001. Star this repository.
+002. Fork this repository.
 3. Clone the forked repository to your local machine. ( git clone <URL to cloned repository> )
 4. Add your name and profile link in README.md file. ( Open the file using any text editor )
 5. Commit the message and put your Name as commit message. ( git add . & git commit -m "Your Name here" )
 6. Push the changes online. ( git push origin master )
-7. Come back here and click on pull request tab and create a pull request.
+007. Come back here and click on pull request tab and create a pull request.
 
 ![Image](https://static.vecteezy.com/system/resources/previews/000/400/849/non_2x/people-making-a-to-do-list-illustration-vector.jpg)
 
@@ -25,7 +25,7 @@ Create a account on GitHub or Use your current account for this Activity.
 
 ## Use this Format
 
-## S.No. [Your Name Here] (Link to Your Profile here)
+## S. No. [Your Name Here] (Link to Your Profile here)
 
 1. [Sanjeev](https://github.com/thedevelopersanjeev)
 2. [Aman](https://github.com/A-manSingh)
@@ -139,3 +139,4 @@ Create a account on GitHub or Use your current account for this Activity.
 110. [Gabriela Prado](https://github.com/gabrielarodriguesp)
 111. [barretoMarcosPaulo](https://github.com/barretoMarcosPaulo)
 112. [Estevao Viana](https://github.com/estevaomrviana)
+113. [mpgxc](https://github.com/mpgxc)
