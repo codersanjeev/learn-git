@@ -142,4 +142,4 @@ Create a account on GitHub or Use your current account for this Activity.
 113. [Ivan Filho](https://github.com/ivanfilho21)
 114. [Chirag Sukhala](https://github.com/chiragsukhala)
 115. [Renan Guerra](https://github.com/renanguerra)
-116. [JuliaBrazolim] (https://github.com/JuliaBrazolim)
+116. [JuliaBrazolim](https://github.com/JuliaBrazolim)
