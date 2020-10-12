@@ -144,3 +144,4 @@ Create a account on GitHub or Use your current account for this Activity.
 115. [Renan Guerra](https://github.com/renanguerra)
 116. [JuliaBrazolim](https://github.com/JuliaBrazolim)
 117. [Anish Tilak](https://github.com/anishtilak16)
+118. [Lucas Sousa](https://github.com/lucasousa)
